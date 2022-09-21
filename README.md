@@ -48,7 +48,8 @@ Transitioning Service Member with 13 years of proven experience in the United St
 
 <details>
  <summary><h3>Resume</h3></summary>
-WILLIAM A. COMPTON(228) 224-0166
+<h4>WILLIAM A. COMPTON</h4>
+(228) 224-0166
 williamacompton1@gmail.com
 linkedin.com/in/williamacompton
 github.com/william-compton
