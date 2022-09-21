@@ -54,7 +54,7 @@ linkedin.com/in/williamacompton</br>
 github.com/william-compton</div>
 
 <h4>PORTFOLIO</h4>
-<h5>william-compton.github.io</h5>
+<div>william-compton.github.io</div>
 
 <h4>PROFESSIONAL SUMMARY<h5>
 
@@ -65,61 +65,64 @@ Consultant with 5 years’ experience advising senior leaders and Navy SEAL Oper
 of technical surveillance equipment. Possesses a comprehensive background in computers, electronics,
 networking, network security, and software development.</div>
 
-RELEVANT WORK EXPERIENCE
+<h4>RELEVANT WORK EXPERIENCE</h4>
 
-DEFENDEDGE 2022 –
-present
-Software Engineer Intern | Remote 2022 – present
- Builds RESTful APIs in Java and Python that serve millions of datapoints to a JavaScript/React
-front-end for two SaaS products.
- Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS,
-AWS EC2.
-UNITED STATES NAVY 2009 –
-present
-Technical Consultant
-NAVAL SPECIAL WARFARE DEVELOPMENT GROUP | Virginia Beach, VA 2017 – 2022
- Trains and advises senior leaders and Navy SEAL Operators in the planning, coordination, and
+<div>DEFENDEDGE 2022 – present</br>
+Software Engineer Intern | Remote</br>
+Builds RESTful APIs in Java and Python that serve millions of datapoints to a JavaScript/React
+front-end for two SaaS products.</br>
+Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, AWS EC2.
+</div>
+<div>UNITED STATES NAVY 2009 – present
+Technical Consultant</br>
+NAVAL SPECIAL WARFARE DEVELOPMENT GROUP | Virginia Beach, VA 2017 – 2022</br>
+Trains and advises senior leaders and Navy SEAL Operators in the planning, coordination, and
 secure use of unique, non-standard surveillance, photographic, communications, and electronics
-devices supporting global operations.
- Supervises the use and appropriate implementation of a managed attribution VPN network for
+devices supporting global operations.</br>
+Supervises the use and appropriate implementation of a managed attribution VPN network for
 secure data routing and processing.
-Telecommunications Supervisor
-NAVAL COMPUTER AND TELECOMMUNICATIONS STATION SICILY | Sigonella, Sicily 2014 – 2017
- Oversaw operations and maintenance of three Multi-Service Provisioning Platform trunks, 437
-voice and data circuits, and 1,561 workstations.
-
-WILLIAM A. COMPTON
- Supervised communications support to U.S., NATO, and coalition forces operating in the Africa
+</div>
+<div>Telecommunications Supervisor</br>
+NAVAL COMPUTER AND TELECOMMUNICATIONS STATION SICILY | Sigonella, Sicily 2014 – 2017</br>
+Oversaw operations and maintenance of three Multi-Service Provisioning Platform trunks, 437
+voice and data circuits, and 1,561 workstations.</br>
+Supervised communications support to U.S., NATO, and coalition forces operating in the Africa
 Command, European Command, and Central Command areas of responsibility.
-Communications Technician
-NAVAL MOBILE CONSTRUCTION BATTALION | Gulfport, Mississippi 2009 – 2014
- Operated and maintained communications systems, tactical data networks, and NMCI network
+</div>
+<div>Communications Technician</br>
+NAVAL MOBILE CONSTRUCTION BATTALION | Gulfport, Mississippi 2009 – 2014</br>
+Operated and maintained communications systems, tactical data networks, and NMCI network
 systems ensuring compliance with DoD cybersecurity policies.
-CERTIFICATIONS
+</div>
 
-CompTIA Advanced Security Practitioner (CASP+)
-CompTIA Cybersecurity Analyst (CySA+)
-
-CompTIA Security+
-CompTIA Cloud+
-CompTIA Linux+
-
+<h4>CERTIFICATIONS</h4>
+<div>
+CompTIA Advanced Security Practitioner (CASP+)</br>
+CompTIA Cybersecurity Analyst (CySA+)</br>
+CompTIA Security+</br>
+CompTIA Cloud+</br>
+CompTIA Linux+</br>
 EC-Council Certified Ethical Hacker (CEH)
-TECHNICAL SKILLS
-Mac OS / Microsoft Windows / Linux
-Java / Python / HTML / CSS / JavaScript
+</div>
+
+<h4>TECHNICAL SKILLS</h4>
+<div>
+Mac OS / Microsoft Windows / Linux</br>
+Java / Python / HTML / CSS / JavaScript</br>
 SQL / Django / React
-QUALIFICATIONS
+</div>
 
-Department of Labor Internetworking Technician
+<h4>QUALIFICATIONS</h4>
+<div>
+Department of Labor Internetworking Technician</br>
 Department of Labor Computer Operator
+</div>
 
-EDUCATION
-
-University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity
-University of Maryland Global Campus | B.S. Software Development and Security (2023)
-
+<h4>EDUCATION</h4>
+<div>
+University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity</br>
+University of Maryland Global Campus | B.S. Software Development and Security (2023)</br>
 Code Platoon Full Stack Software Engineering Program
-
+</div>
 [website]: https://william-compton.github.io
 [youtube]: https://youtube.com/UCeumsBHIMbiRWkzD_-8rywQ
