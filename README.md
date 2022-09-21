@@ -49,21 +49,21 @@ Transitioning Service Member with 13 years of proven experience in the United St
 <details>
  <summary><h3>Resume</h3></summary>
 <h4>WILLIAM A. COMPTON</h4>
-(228) 224-0166
-williamacompton1@gmail.com
-linkedin.com/in/williamacompton
-github.com/william-compton
+<h5>williamacompton1@gmail.com</h5>
+<h5>linkedin.com/in/williamacompton</h5>
+<h5>github.com/william-compton</h5>
 
-PORTFOLIO
-william-compton.github.io
-PROFESSIONAL SUMMARY
+<h4>PORTFOLIO</h4>
+<h5>william-compton.github.io</h5>
 
-Transitioning Service Member with a TOP SECRET (SCI) security clearance and 13 years of proven
+<h4>PROFESSIONAL SUMMARY<h5>
+
+<div>Transitioning Service Member with a TOP SECRET (SCI) security clearance and 13 years of proven
 experience in the United States Navy. Self-starter and recognized expert known for exceptional time
 management and organizational skills while working in a dynamic, fast-paced environment. Technical
 Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use
 of technical surveillance equipment. Possesses a comprehensive background in computers, electronics,
-networking, network security, and software development.
+networking, network security, and software development.</div>
 
 RELEVANT WORK EXPERIENCE
 
