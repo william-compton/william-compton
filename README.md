@@ -47,8 +47,78 @@ Transitioning Service Member with 13 years of proven experience in the United St
 #
 
 <details>
- <summary><h3>👨‍💻 Will's Coding Journey</h3></summary>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ <summary><h3>Resume</h3></summary>
+WILLIAM A. COMPTON(228) 224-0166
+williamacompton1@gmail.com
+linkedin.com/in/williamacompton
+github.com/william-compton
+
+PORTFOLIO
+william-compton.github.io
+PROFESSIONAL SUMMARY
+
+Transitioning Service Member with a TOP SECRET (SCI) security clearance and 13 years of proven
+experience in the United States Navy. Self-starter and recognized expert known for exceptional time
+management and organizational skills while working in a dynamic, fast-paced environment. Technical
+Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use
+of technical surveillance equipment. Possesses a comprehensive background in computers, electronics,
+networking, network security, and software development.
+
+RELEVANT WORK EXPERIENCE
+
+DEFENDEDGE 2022 –
+present
+Software Engineer Intern | Remote 2022 – present
+ Builds RESTful APIs in Java and Python that serve millions of datapoints to a JavaScript/React
+front-end for two SaaS products.
+ Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS,
+AWS EC2.
+UNITED STATES NAVY 2009 –
+present
+Technical Consultant
+NAVAL SPECIAL WARFARE DEVELOPMENT GROUP | Virginia Beach, VA 2017 – 2022
+ Trains and advises senior leaders and Navy SEAL Operators in the planning, coordination, and
+secure use of unique, non-standard surveillance, photographic, communications, and electronics
+devices supporting global operations.
+ Supervises the use and appropriate implementation of a managed attribution VPN network for
+secure data routing and processing.
+Telecommunications Supervisor
+NAVAL COMPUTER AND TELECOMMUNICATIONS STATION SICILY | Sigonella, Sicily 2014 – 2017
+ Oversaw operations and maintenance of three Multi-Service Provisioning Platform trunks, 437
+voice and data circuits, and 1,561 workstations.
+
+WILLIAM A. COMPTON
+ Supervised communications support to U.S., NATO, and coalition forces operating in the Africa
+Command, European Command, and Central Command areas of responsibility.
+Communications Technician
+NAVAL MOBILE CONSTRUCTION BATTALION | Gulfport, Mississippi 2009 – 2014
+ Operated and maintained communications systems, tactical data networks, and NMCI network
+systems ensuring compliance with DoD cybersecurity policies.
+CERTIFICATIONS
+
+CompTIA Advanced Security Practitioner (CASP+)
+CompTIA Cybersecurity Analyst (CySA+)
+
+CompTIA Security+
+CompTIA Cloud+
+CompTIA Linux+
+
+EC-Council Certified Ethical Hacker (CEH)
+TECHNICAL SKILLS
+Mac OS / Microsoft Windows / Linux
+Java / Python / HTML / CSS / JavaScript
+SQL / Django / React
+QUALIFICATIONS
+
+Department of Labor Internetworking Technician
+Department of Labor Computer Operator
+
+EDUCATION
+
+University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity
+University of Maryland Global Campus | B.S. Software Development and Security (2023)
+
+Code Platoon Full Stack Software Engineering Program
 
 [website]: https://william-compton.github.io
 [youtube]: https://youtube.com/UCeumsBHIMbiRWkzD_-8rywQ
