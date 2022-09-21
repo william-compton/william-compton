@@ -56,10 +56,10 @@ Transitioning Service Member with 13 years of proven experience in the United St
 <div>williamacompton1@gmail.com</br>
 linkedin.com/in/williamacompton</br>
 github.com/william-compton</div>
-#
+
 <h4>PORTFOLIO</h4>
 <div>william-compton.github.io</div>
-#
+
 <h4>PROFESSIONAL SUMMARY<h5>
 
 <div>Transitioning Service Member with a TOP SECRET (SCI) security clearance and 13 years of proven
@@ -68,7 +68,7 @@ management and organizational skills while working in a dynamic, fast-paced envi
 Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use
 of technical surveillance equipment. Possesses a comprehensive background in computers, electronics,
 networking, network security, and software development.</div>
-#
+
 <h4>RELEVANT WORK EXPERIENCE</h4>
 
 <h5>DEFENDEDGE 2022 – present</h5>
@@ -102,7 +102,7 @@ NAVAL MOBILE CONSTRUCTION BATTALION | Gulfport, Mississippi 2009 – 2014</br>
 Operated and maintained communications systems, tactical data networks, and NMCI network
 systems ensuring compliance with DoD cybersecurity policies.
 </div>
-#
+
 <h4>CERTIFICATIONS</h4>
 <div>
 CompTIA Advanced Security Practitioner (CASP+)</br>
@@ -112,20 +112,20 @@ CompTIA Cloud+</br>
 CompTIA Linux+</br>
 EC-Council Certified Ethical Hacker (CEH)
 </div>
-#
+
 <h4>TECHNICAL SKILLS</h4>
 <div>
 Mac OS / Microsoft Windows / Linux</br>
 Java / Python / HTML / CSS / JavaScript</br>
 SQL / Django / React
 </div>
-#
+
 <h4>QUALIFICATIONS</h4>
 <div>
 Department of Labor Internetworking Technician</br>
 Department of Labor Computer Operator
 </div>
-#
+
 <h4>EDUCATION</h4>
 <div>
 University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity</br>
