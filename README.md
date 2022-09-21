@@ -67,14 +67,16 @@ networking, network security, and software development.</div>
 
 <h4>RELEVANT WORK EXPERIENCE</h4>
 
-<div>DEFENDEDGE 2022 – present</br>
+<h5>DEFENDEDGE 2022 – present</h5>
+<div>
 Software Engineer Intern | Remote</br>
 Builds RESTful APIs in Java and Python that serve millions of datapoints to a JavaScript/React
 front-end for two SaaS products.</br>
 Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, AWS EC2.
 </div>
-<div>UNITED STATES NAVY 2009 – present
-Technical Consultant</br>
+<h5>UNITED STATES NAVY 2009 – present</h5>
+<h6>Technical Consultant</h6>
+<div>
 NAVAL SPECIAL WARFARE DEVELOPMENT GROUP | Virginia Beach, VA 2017 – 2022</br>
 Trains and advises senior leaders and Navy SEAL Operators in the planning, coordination, and
 secure use of unique, non-standard surveillance, photographic, communications, and electronics
@@ -82,14 +84,16 @@ devices supporting global operations.</br>
 Supervises the use and appropriate implementation of a managed attribution VPN network for
 secure data routing and processing.
 </div>
-<div>Telecommunications Supervisor</br>
+<h6>Telecommunications Supervisor</h6>
+<div>
 NAVAL COMPUTER AND TELECOMMUNICATIONS STATION SICILY | Sigonella, Sicily 2014 – 2017</br>
 Oversaw operations and maintenance of three Multi-Service Provisioning Platform trunks, 437
 voice and data circuits, and 1,561 workstations.</br>
 Supervised communications support to U.S., NATO, and coalition forces operating in the Africa
 Command, European Command, and Central Command areas of responsibility.
 </div>
-<div>Communications Technician</br>
+<h6>Communications Technician</h6>
+<div>
 NAVAL MOBILE CONSTRUCTION BATTALION | Gulfport, Mississippi 2009 – 2014</br>
 Operated and maintained communications systems, tactical data networks, and NMCI network
 systems ensuring compliance with DoD cybersecurity policies.
@@ -124,5 +128,3 @@ University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity<
 University of Maryland Global Campus | B.S. Software Development and Security (2023)</br>
 Code Platoon Full Stack Software Engineering Program
 </div>
-[website]: https://william-compton.github.io
-[youtube]: https://youtube.com/UCeumsBHIMbiRWkzD_-8rywQ
