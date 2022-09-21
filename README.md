@@ -75,7 +75,7 @@ front-end for two SaaS products.</br>
 Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, AWS EC2.
 </div>
 <h5>UNITED STATES NAVY 2009 – present</h5>
-<h6>Technical Consultant</h6>
+<h5>Technical Consultant</h5>
 <div>
 NAVAL SPECIAL WARFARE DEVELOPMENT GROUP | Virginia Beach, VA 2017 – 2022</br>
 Trains and advises senior leaders and Navy SEAL Operators in the planning, coordination, and
@@ -84,7 +84,7 @@ devices supporting global operations.</br>
 Supervises the use and appropriate implementation of a managed attribution VPN network for
 secure data routing and processing.
 </div>
-<h6>Telecommunications Supervisor</h6>
+<h5>Telecommunications Supervisor</h5>
 <div>
 NAVAL COMPUTER AND TELECOMMUNICATIONS STATION SICILY | Sigonella, Sicily 2014 – 2017</br>
 Oversaw operations and maintenance of three Multi-Service Provisioning Platform trunks, 437
@@ -92,7 +92,7 @@ voice and data circuits, and 1,561 workstations.</br>
 Supervised communications support to U.S., NATO, and coalition forces operating in the Africa
 Command, European Command, and Central Command areas of responsibility.
 </div>
-<h6>Communications Technician</h6>
+<h5>Communications Technician</h5>
 <div>
 NAVAL MOBILE CONSTRUCTION BATTALION | Gulfport, Mississippi 2009 – 2014</br>
 Operated and maintained communications systems, tactical data networks, and NMCI network
