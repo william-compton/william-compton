@@ -49,9 +49,9 @@ Transitioning Service Member with 13 years of proven experience in the United St
 <details>
  <summary><h3>Resume</h3></summary>
 <h4>WILLIAM A. COMPTON</h4>
-<h5>williamacompton1@gmail.com</h5>
-<h5>linkedin.com/in/williamacompton</h5>
-<h5>github.com/william-compton</h5>
+<div>williamacompton1@gmail.com
+linkedin.com/in/williamacompton
+github.com/william-compton</div>
 
 <h4>PORTFOLIO</h4>
 <h5>william-compton.github.io</h5>
