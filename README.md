@@ -37,7 +37,7 @@ Transitioning Service Member with 13 years of proven experience in the United St
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UCiB3Rv7AwYGtw-qcW4zLvTg?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCeumsBHIMbiRWkzD_-8rywQ?sub_confirmation=1)
 ### 📊 Stats
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-compton&show_icons=true&theme=gruvbox)
