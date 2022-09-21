@@ -130,5 +130,5 @@ Department of Labor Computer Operator
 <div>
 University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity</br>
 University of Maryland Global Campus | B.S. Software Development and Security (2023)</br>
-Code Platoon Full Stack Software Engineering Program
+Code Platoon Full Stack Software Engineering Program.
 </div>
