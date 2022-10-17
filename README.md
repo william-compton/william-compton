@@ -46,7 +46,7 @@ Transitioning Service Member with 13 years of proven experience in the United St
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-compton&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=william-compton&theme=github_dark&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=william-compton&theme=github_dark)
 
 ---
 
