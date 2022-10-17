@@ -2,7 +2,7 @@
 
 **`Cleared Software Engineer`**
 
-Transitioning Service Member with 13 years of proven experience in the United States Navy. Self-starter and recognized expert known for exceptional time management and organizational skills while working in a dynamic, fast-paced environment. Technical Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use of technical surveillance equipment. Possesses a comprehensive background in computers, electronics, networking, network security, and software development..
+Transitioning Service Member with 13 years of proven experience in the United States Navy. Self-starter and recognized expert known for exceptional time management and organizational skills while working in a dynamic, fast-paced environment. Technical Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use of technical surveillance equipment. Possesses a comprehensive background in computers, electronics, networking, network security, and software development.
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCeumsBHIMbiRWkzD_-8rywQ?sub_confirmation=1">
