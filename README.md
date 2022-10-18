@@ -35,9 +35,8 @@ Transitioning Service Member with 13 years of proven experience in the United St
 ### 📺 Project Videos
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Code Platoon Group Project - Job Tracking Application](https://ytcards.demolab.com/?id=S9MXm5K_cQk&title=Code+Platoon+Group+Project+-+Job+Tracking+Application&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "Code Platoon Group Project - Job Tracking Application")](https://youtu.be/S9MXm5K_cQk)
+[![Code Platoon Group Project - Job Tracking Application](https://ytcards.demolab.com/?id=S9MXm5K_cQk&title=Code+Platoon+Group+Project+-+Job+Tracking+Application&lang=en&timestamp=1666102380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=367 "Code Platoon Group Project - Job Tracking Application")](https://youtu.be/S9MXm5K_cQk)
 
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
 <!-- END YOUTUBE-CARDS -->
 
 
