@@ -35,9 +35,8 @@ Transitioning Service Member with 13 years of proven experience in the United St
 ### 📺 Project Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "Code Platoon Group Project - Job Tracking Application")](https://youtu.be/S9MXm5K_cQk)
+[![Code Platoon Group Project - Job Tracking Application](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "Code Platoon Group Project - Job Tracking Application")](https://youtu.be/S9MXm5K_cQk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9MXm5K_cQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- END YOUTUBE-CARDS -->
 
 
