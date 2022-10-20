@@ -35,8 +35,7 @@ Transitioning Service Member with 13 years of proven experience in the United St
 ### 📺 Project Videos
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Code Platoon Group Project - Job Tracking Application](https://ytcards.demolab.com/?id=S9MXm5K_cQk&title=Code+Platoon+Group+Project+-+Job+Tracking+Application&lang=en&timestamp=1666102380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=367 "Code Platoon Group Project - Job Tracking Application")](https://youtu.be/S9MXm5K_cQk)
-
+[![Code Platoon Group Project - Job Tracking Application](https://ytcards.demolab.com/?id=S9MXm5K_cQk&title=Code+Platoon+Group+Project+-+Job+Tracking+Application&lang=en&timestamp=1666099665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Code Platoon Group Project - Job Tracking Application")](https://www.youtube.com/watch?v=S9MXm5K_cQk)
 <!-- END YOUTUBE-CARDS -->
 
 
