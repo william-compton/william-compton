@@ -38,7 +38,6 @@ Transitioning Service Member with 13 years of proven experience in the United St
 [![Code Platoon Personal Project - Secret Agent Planner (SAP)](https://ytcards.demolab.com/?id=LBsSW5MhXj0&title=Code+Platoon+Personal+Project+-+Secret+Agent+Planner+%28SAP%29&lang=en&timestamp=1666390967&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Code Platoon Personal Project - Secret Agent Planner (SAP)")](https://www.youtube.com/watch?v=LBsSW5MhXj0)
 [![Code Platoon Group Project - Job Tracking Application](https://ytcards.demolab.com/?id=S9MXm5K_cQk&title=Code+Platoon+Group+Project+-+Job+Tracking+Application&lang=en&timestamp=1666099665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Code Platoon Group Project - Job Tracking Application")](https://www.youtube.com/watch?v=S9MXm5K_cQk)
 
-[![Code Platoon Persoanl Project - Secret Agent Planner (SAP)](https://ytcards.demolab.com/?id=S9MXm5K_cQk&title=Code+Platoon+Personal+Project+-+Secret+Agent+Planner+(SAP)&lang=en&timestamp=1666392170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Code Platoon Personal Project - Secret Agent Planner (SAP)")](https://www.youtube.com/watch?v=LBsSW5MhXj0)
 <!-- END YOUTUBE-CARDS -->
 
 
