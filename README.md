@@ -73,6 +73,8 @@ networking, network security, and software development.</div>
 
 <h4>RELEVANT WORK EXPERIENCE</h4>
 
+<h5>BOOZ ALLEN HAMILTON 2023 - present</h5>
+
 <h5>DEFENDEDGE 2022 – present</h5>
 <div>
 Software Engineer Intern | Remote</br>
@@ -80,7 +82,7 @@ Builds RESTful APIs in Java and Python that serve millions of datapoints to a Ja
 front-end for two SaaS products.</br>
 Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, AWS EC2.
 </div>
-<h5>UNITED STATES NAVY 2009 – present</h5>
+<h5>UNITED STATES NAVY 2009 – 2022</h5>
 <h5>Technical Consultant</h5>
 <div>
 NAVAL SPECIAL WARFARE DEVELOPMENT GROUP | Virginia Beach, VA 2017 – 2022</br>
