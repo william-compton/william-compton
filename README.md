@@ -70,7 +70,7 @@ Software Engineer, Mid | Remote<br>
 
 Skills: Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Spring Boot · Jenkins · Java
 
-<h5>DEFENDEDGE 2022 – present</h5>
+<h5>DEFENDEDGE 2022</h5>
 <div>
 Software Engineer Intern | Remote</br>
 Builds RESTful APIs in Java and Python that serve millions of datapoints to a JavaScript/React
