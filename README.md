@@ -62,13 +62,6 @@ github.com/william-compton</div>
 
 <h4>PROFESSIONAL SUMMARY<h5>
 
-<div>Transitioning Service Member with a TOP SECRET (SCI) security clearance and 13 years of proven
-experience in the United States Navy. Self-starter and recognized expert known for exceptional time
-management and organizational skills while working in a dynamic, fast-paced environment. Technical
-Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use
-of technical surveillance equipment. Possesses a comprehensive background in computers, electronics,
-networking, network security, and software development.</div>
-
 <h4>RELEVANT WORK EXPERIENCE</h4>
 
 <h5>BOOZ ALLEN HAMILTON 2023 - present</h5>
@@ -82,7 +75,7 @@ Skills: Docker Products · Continuous Integration and Continuous Delivery (CI/CD
 Software Engineer Intern | Remote</br>
 Builds RESTful APIs in Java and Python that serve millions of datapoints to a JavaScript/React
 front-end for two SaaS products.</br>
-Tech Stack: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, AWS EC2.
+Skills: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, AWS EC2.
 </div>
 <h5>UNITED STATES NAVY 2009 – 2022</h5>
 <h5>Information Systems Technician</h5>
