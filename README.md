@@ -82,19 +82,19 @@ Skills: HTML, CSS, JavaScript/React, Python, Java, MySQL, AWS Lambda, AWS RDS, A
 
 <h4>CERTIFICATIONS</h4>
 <div>
+AWS Certified Cloud Practitioner</br>
 CompTIA Advanced Security Practitioner (CASP+)</br>
 CompTIA Cybersecurity Analyst (CySA+)</br>
 CompTIA Security+</br>
 CompTIA Cloud+</br>
 CompTIA Linux+</br>
-EC-Council Certified Ethical Hacker (CEH)
 </div>
 
 <h4>TECHNICAL SKILLS</h4>
 <div>
 Mac OS / Microsoft Windows / Linux</br>
 Java / Python / HTML / CSS / JavaScript</br>
-SQL / Django / React
+SQL / Django / React / Docker / Kubernetes
 </div>
 
 <h4>QUALIFICATIONS</h4>
@@ -106,6 +106,5 @@ Department of Labor Computer Operator
 <h4>EDUCATION</h4>
 <div>
 University of Maryland Global Campus | B.S. Computer Networks and Cybersecurity</br>
-University of Maryland Global Campus | B.S. Software Development and Security (2023)</br>
 Code Platoon Full Stack Software Engineering Program
 </div>
