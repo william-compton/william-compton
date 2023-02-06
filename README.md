@@ -1,8 +1,6 @@
 # William Compton
 
-**`Cleared Software Engineer`**
-
-Transitioning Service Member with 13 years of proven experience in the United States Navy. Self-starter and recognized expert known for exceptional time management and organizational skills while working in a dynamic, fast-paced environment. Technical Consultant with 5 years’ experience advising senior leaders and Navy SEAL Operators in the secure use of technical surveillance equipment. Possesses a comprehensive background in computers, electronics, networking, network security, and software development.
+**`Software Engineer, Mid`**
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCeumsBHIMbiRWkzD_-8rywQ?sub_confirmation=1">
@@ -74,6 +72,19 @@ networking, network security, and software development.</div>
 <h4>RELEVANT WORK EXPERIENCE</h4>
 
 <h5>BOOZ ALLEN HAMILTON 2023 - present</h5>
+
+Software Engineer, Mid | Remote<br>
+
+Experience with Software Development
+Knowledge of open APIs
+Knowledge of database schema design and SQL
+Knowledge of the software development life cycle, including Continuous Integration or Continuous Delivery using Jenkins-CI
+Knowledge of Agile fundamentals
+Ability to test coverage of code by writing Unit Tests with Gradle
+Ability to provide access to data to ultimately build better products through continuous feedback and collaboration with the greater technical community
+Ability to obtain a security clearance
+Bachelor's degreeAs a Software Engineer, you’ll learn new tools and techniques and identify needed system improvements. You’ll help clients overcome their most difficult challenges using the latest architectural approaches, tools, and technologies. You’ll help make sure the solution developed by the team considers the architecture and operating environment, as well as future functionality and enhancements. Experience with Software Development Knowledge of open APIs Knowledge of database schema design and SQL Knowledge of the software development life cycle, including Continuous Integration or Continuous Delivery using Jenkins-CI Knowledge of Agile fundamentals Ability to test coverage of code by writing Unit Tests with Gradle Ability to provide access to data to ultimately build better products through continuous feedback and collaboration with the greater technical community Ability to obtain a security clearance Bachelor's degree
+Skills: Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Spring Boot · Jenkins · Java
 
 <h5>DEFENDEDGE 2022 – present</h5>
 <div>
